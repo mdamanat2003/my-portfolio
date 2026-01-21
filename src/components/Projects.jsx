@@ -4,28 +4,34 @@ const Projects = () => {
     {
       id: 1,
       title: "E-Commerce Website",
-      description: "A full-stack e-commerce platform with React, Node.js, and MongoDB. Includes user authentication, payment integration, and admin panel.",
-      image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80",
-      tags: ["React", "Node.js", "MongoDB", "Stripe"],
-      link: "https://github.com/mdamanat2003/-SCT_WD_3-"
+      description:
+        "A full-stack e-commerce platform with React, Node.js, and MongoDB. Includes user authentication, payment integration, and admin panel.",
+      image:
+        "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80",
+      tags: ["javascript","React", "Node.js", "MongoDB", "Express"],
+      link: "https://github.com/mdamanat2003/Asrar_Perfume_2003",
     },
     {
       id: 2,
-      title: "Task Management App",
-      description: "A productivity app for managing tasks and projects with drag-and-drop functionality and real-time updates.",
-      image: "https://images.unsplash.com/photo-1611224923853-80b023f02d71?ixlib=rb-4.0.3&auto=format&fit=crop&w=1139&q=80",
-      tags: ["React", "Firebase", "Tailwind CSS"],
-      link: "https://github.com/mdamanat2003/-SCT_WD_4-"
+      title: "Chatboat AI",
+      description:
+        "A productivity app for managing tasks and projects with drag-and-drop functionality and real-time updates.",
+      image:
+        "https://images.unsplash.com/photo-1611224923853-80b023f02d71?ixlib=rb-4.0.3&auto=format&fit=crop&w=1139&q=80",
+      tags: ["javascript","React", "Node.js", "MongoDB", "Express"],
+      link: "https://github.com/mdamanat2003/code-converter",
     },
     {
       id: 3,
-      title: "Weather Dashboard",
-      description: "A weather application that displays current and forecasted weather for any location with beautiful UI.",
-      image: "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1065&q=80",
-      tags: ["JavaScript", "API", "CSS"],
-      link: "https://github.com/mdamanat2003/-SCT_WD_2-"
-    }
-  ]
+      title: "Zeerodha clone",
+      description:
+        "currently waorking",
+      image:
+        "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1065&q=80",
+      tags: ["javascript","React", "Node.js", "MongoDB", "Express"],
+      link: "https://github.com/mdamanat2003/-SCT_WD_2-",
+    },
+  ];
 
   return (
     <section id="projects" className="py-20 px-6" style={{backgroundColor: '#020617'}}>

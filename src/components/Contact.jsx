@@ -38,7 +38,7 @@ const Contact = () => {
           <div className="md:w-1/2">
             <form onSubmit={handleSubmit} className="space-y-6">
               <div>
-                <label htmlFor="name" className="block mb-2" style={{color: '#CBD5E1'}}>Aapka Naam</label>
+                <label htmlFor="name" className="block mb-2" style={{color: '#CBD5E1'}}>Your Name</label>
                 <input 
                   type="text" 
                   id="name" 
