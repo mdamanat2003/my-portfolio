@@ -17,9 +17,9 @@ const Projects = () => {
       description:
         "A productivity app for managing tasks and projects with drag-and-drop functionality and real-time updates.",
       image:
-        "https://images.unsplash.com/photo-1611224923853-80b023f02d71?ixlib=rb-4.0.3&auto=format&fit=crop&w=1139&q=80",
+        "/codeConverter.png",
       tags: ["javascript","React", "Node.js", "MongoDB", "Express"],
-      link: "https://github.com/mdamanat2003/code-converter",
+      link: "https://code-converter-9yvrcqwll-md-amanat-ullahs-projects.vercel.app/",
     },
     {
       id: 3,
