@@ -7,7 +7,7 @@ const Projects = () => {
       description:
         "A full-stack e-commerce platform with React, Node.js, and MongoDB. Includes user authentication, payment integration, and admin panel.",
       image:
-        "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80",
+        "/Asrar_Perfume.png",
       tags: ["javascript","React", "Node.js", "MongoDB", "Express"],
       link: "https://github.com/mdamanat2003/Asrar_Perfume_2003",
     },
