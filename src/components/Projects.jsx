@@ -29,7 +29,7 @@ const Projects = () => {
       image:
         "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1065&q=80",
       tags: ["javascript","React", "Node.js", "MongoDB", "Express"],
-      link: "https://github.com/mdamanat2003/-SCT_WD_2-",
+      link: "https://zeerodha-clone-chi.vercel.app/",
     },
   ];
 

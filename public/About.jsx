@@ -16,7 +16,7 @@ function About() {
               user-friendly applications and turning ideas into impactful digital experiences that live on the internet.
             </p>
             <p className="mb-4 text-lg" style={{color: '#CBD5E1'}}>
-              My journey started with basic HTML/CSS, and i am working with modern 
+              My journey started with basic HTML/CSS, and I am working with modern 
               frameworks like React, Vite.js, and Node.js. I believe in continuous learning and 
               always try to expand my knowledge.
             </p>
@@ -27,7 +27,7 @@ function About() {
           </div>
           <div className="md:w-1/2 md:pl-12">
             <div className="p-6 rounded-lg shadow-md" style={{backgroundColor: '#020617'}}>
-              <h3 className="text-xl font-semibold mb-4" style={{color: '#CBD5E1'}}>Personal Info</h3>
+              <h3 className="text-xl font-semibold mb-2" style={{color: '#CBD5E1'}}>Personal Info</h3>
               <div className="space-y-3">
                 <p style={{color: '#CBD5E1'}}><span className="font-medium" style={{color: '#14B8A6'}}>Name:</span> MD AMANAT ULLAH </p>
                 <p style={{color: '#CBD5E1'}}><span className="font-medium" style={{color: '#14B8A6'}}>Location:</span> Kolkata,India</p>
